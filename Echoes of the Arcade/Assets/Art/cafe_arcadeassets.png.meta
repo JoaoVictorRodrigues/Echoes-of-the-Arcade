@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9c3de339a93f7c944bfb6f015d90ea89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6917209806962858109
+    second: cafe_arcadeassets_0
+  - first:
+      213: 3179027800942649977
+    second: cafe_arcadeassets_1
+  - first:
+      213: 3006484588396509234
+    second: cafe_arcadeassets_2
+  - first:
+      213: 7309752817270157365
+    second: cafe_arcadeassets_3
+  - first:
+      213: -7627985133947170287
+    second: cafe_arcadeassets_4
+  - first:
+      213: -5115986270535896430
+    second: cafe_arcadeassets_5
+  - first:
+      213: 8269517364051136835
+    second: cafe_arcadeassets_6
+  - first:
+      213: -3761734467398193933
+    second: cafe_arcadeassets_7
+  - first:
+      213: 2141613458511459078
+    second: cafe_arcadeassets_8
+  - first:
+      213: 7033310225148394579
+    second: cafe_arcadeassets_9
+  - first:
+      213: 5379608610819173260
+    second: cafe_arcadeassets_10
+  - first:
+      213: 4903302039516097334
+    second: cafe_arcadeassets_11
+  - first:
+      213: -8924007345751053528
+    second: cafe_arcadeassets_12
+  - first:
+      213: -1590128706454668222
+    second: cafe_arcadeassets_13
+  - first:
+      213: -4721738286067294689
+    second: cafe_arcadeassets_14
+  - first:
+      213: 5865243314139168160
+    second: cafe_arcadeassets_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cafe_arcadeassets_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d789ed4abaddeff50800000000000000
+      internalID: 6917209806962858109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 138
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972274611fc2e1c20800000000000000
+      internalID: 3179027800942649977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 137
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2387f0addcd29b920800000000000000
+      internalID: 3006484588396509234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 137
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5307c456575717560800000000000000
+      internalID: 7309752817270157365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 138
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1125e1b7fe3f32690800000000000000
+      internalID: -7627985133947170287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 89
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292bee4b79d5009b0800000000000000
+      internalID: -5115986270535896430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 89
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34151349a3a33c270800000000000000
+      internalID: 8269517364051136835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 89
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc2363be62abcbc0800000000000000
+      internalID: -3761734467398193933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 89
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60375c0081a88bd10800000000000000
+      internalID: 2141613458511459078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 90
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cb71db2665b9160800000000000000
+      internalID: 7033310225148394579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 89
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b6286778538aa40800000000000000
+      internalID: 5379608610819173260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 89
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b2ec3e9370c0440800000000000000
+      internalID: 4903302039516097334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b2887b99e872480800000000000000
+      internalID: -8924007345751053528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c3e98cd5abee9e0800000000000000
+      internalID: -1590128706454668222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 45
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed890bb04097eb0800000000000000
+      internalID: -4721738286067294689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe_arcadeassets_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adff7408b7856150800000000000000
+      internalID: 5865243314139168160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cafe_arcadeassets_0: 6917209806962858109
+      cafe_arcadeassets_1: 3179027800942649977
+      cafe_arcadeassets_10: 5379608610819173260
+      cafe_arcadeassets_11: 4903302039516097334
+      cafe_arcadeassets_12: -8924007345751053528
+      cafe_arcadeassets_13: -1590128706454668222
+      cafe_arcadeassets_14: -4721738286067294689
+      cafe_arcadeassets_15: 5865243314139168160
+      cafe_arcadeassets_2: 3006484588396509234
+      cafe_arcadeassets_3: 7309752817270157365
+      cafe_arcadeassets_4: -7627985133947170287
+      cafe_arcadeassets_5: -5115986270535896430
+      cafe_arcadeassets_6: 8269517364051136835
+      cafe_arcadeassets_7: -3761734467398193933
+      cafe_arcadeassets_8: 2141613458511459078
+      cafe_arcadeassets_9: 7033310225148394579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
